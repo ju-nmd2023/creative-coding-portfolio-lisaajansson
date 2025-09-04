@@ -3,5 +3,11 @@
     "file": "experiments/example.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+
+  {
+    "file": "experiments/variation1.js",
+    "name": "Week 1: Randomized squares",
+    "description": "This drawing is inspired by Vera Molnar. It is a grid drawing with squares that contain random lines. I got help from the coding examples in the lectures."
   }
 ]
