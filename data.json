@@ -6,13 +6,28 @@
   },
 
   {
-    "file": "experiments/variation1.js",
+    "file": "experiments/molnar1.js",
     "name": "Week 1: Randomized squares",
     "description": "This drawing is inspired by Vera Molnar. It is a grid drawing with squares that contain random lines. I got help from the coding examples in the lectures."
   },
    {
-    "file": "experiments/variation2.js",
+    "file": "experiments/molnar2.js",
     "name": "Week 1: Randomized squares",
-    "description": "This drawing is another variation with more colour. It is a grid drawing with squares that contain random lines. I got help from the coding examples in the lectures."
+    "description": "This is another variation of the squares. I added the element of random moving lines within each square."
+  },
+   {
+    "file": "experiments/molnar3.js",
+    "name": "Week 1: Randomized squares",
+    "description": "This is a colored variation of the squares. I used HSB to make them pastel colored."
+  },
+   {
+    "file": "experiments/dots1.js",
+    "name": "Week 1: Dots",
+    "description": "I got the insporation from a picture on cognitiveexperience.design. "
+  },
+   {
+    "file": "experiments/dots2.js",
+    "name": "Week 1: Dots",
+    "description": "I made this version a bit more complex. "
   }
 ]
